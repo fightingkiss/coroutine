@@ -1,0 +1,6 @@
+libmill_la-slist.lo: slist.c \
+ /usr/lib/gcc/i686-pc-msys/6.4.0/include/stddef.h slist.h
+
+/usr/lib/gcc/i686-pc-msys/6.4.0/include/stddef.h:
+
+slist.h:
